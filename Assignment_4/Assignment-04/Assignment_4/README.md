@@ -72,18 +72,6 @@ The `homework_projects` directory covers **essential Python topics** such as:
    streamlit run project_name.py  
    ```  
 
----  
 
-## 💡 Connect With Me  
 
-Let's connect and collaborate! 🚀 Feel free to reach out for discussions, collaborations, or just a friendly chat.  
 
-🔹 **GitHub**: [GitHub Profile](https://github.com/ayesha-aziz123?tab=repositories)  
-🔹 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ayesha-aziz-574780310/)  
-🔹 **Twitter/X**: [Twitter Profile](https://x.com/Ayesha_Aziz43)  
-
-Looking forward to connecting with you! 😊🚀  
-
----
-
-### 🔥 Created by **Ayesha Aziz**  
